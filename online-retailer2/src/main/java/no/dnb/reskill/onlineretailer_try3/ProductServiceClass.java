@@ -63,6 +63,7 @@ public class ProductServiceClass implements ProductService {
                 return p;
             }
         }
+        // FROM ANDY: Or maybe just return null, it's not so serious as to throw an exception...
         throw new NoSuchElementException("Product name not found in stock");
     }
 }

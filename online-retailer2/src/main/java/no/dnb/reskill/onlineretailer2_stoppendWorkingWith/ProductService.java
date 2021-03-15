@@ -1,4 +1,4 @@
-package no.dnb.reskill.onlineretailer2;
+package no.dnb.reskill.onlineretailer2_stoppendWorkingWith;
 
 // Represent business logic
 public interface ProductService {

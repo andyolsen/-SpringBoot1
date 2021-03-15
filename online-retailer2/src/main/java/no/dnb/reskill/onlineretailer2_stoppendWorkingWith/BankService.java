@@ -1,4 +1,4 @@
-package no.dnb.reskill.onlineretailer2;
+package no.dnb.reskill.onlineretailer2_stoppendWorkingWith;
 
 public interface BankService {
         void depositIntoAccount(int accountId, double amount);

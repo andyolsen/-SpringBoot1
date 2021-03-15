@@ -1,4 +1,4 @@
-package no.dnb.reskill.onlineretailer2;
+package no.dnb.reskill.onlineretailer2_stoppendWorkingWith;
 import lombok.Data;
 
 @Data

@@ -1,4 +1,4 @@
-package no.dnb.reskill.onlineretailer2;
+package no.dnb.reskill.onlineretailer2_stoppendWorkingWith;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

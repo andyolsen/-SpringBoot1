@@ -7,6 +7,7 @@ import java.util.Map;
 public class ProductRepositoryClass implements ProductRepository {
     private Map<Integer, Product> productMap = new HashMap<>();
 
+    // FROM ANDY: Alternatively you could return a boolean to indicate success/failure.
     @Override
     public void addProduct(Product product) {
         if (productMap.containsKey(product.getId())) {
